@@ -1,0 +1,13 @@
+[
+    {"id": 1,
+     "page": "home"    
+    },
+    {
+     "id": 2,
+     "page": "About Amy"
+    },
+    {
+     "id": 3,
+     "page": "Portfolio"
+    }
+]
